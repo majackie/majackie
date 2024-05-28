@@ -13,7 +13,7 @@
 const jackie = {
   languages: ["Python", "Java", "JavaScript", "C#", "SQL", "Swift", "Kotlin", "PHP", "HTML", "CSS"],
   databases: ["PostgreSQL", "MySQL", "MariaDB", "SQLite", "Firebase"],
-  frameworks: [".NET", "Node.js*", "Express.js", "Flask", "Laravel"]
+  frameworks: [".NET", "Node.js*", "Express.js", "Flask", "Laravel"],
   hosting: ["Microsoft Azure", "Google Cloud Platform", "Render", "Netlify", "ElephantSQL"],
   misc: ["Git", "Docker", "Visual Studio Code", "JetBrains"],
   hobbies: ["powerlifting", "soccer", "anime", "drama", "fps", "moba", "online co-op"]
