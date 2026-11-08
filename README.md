@@ -18,7 +18,7 @@ const jackie = {
 };
 ```
 
-[![PCPartPicker](https://img.shields.io/badge/PCPartPicker-orange?style=flat-square&logo=pcgamingwiki&logoColor=white)](https://ca.pcpartpicker.com/user/jackiema/saved/6fWPzy)
+[![PCPartPicker](https://img.shields.io/badge/PCPartPicker-orange?style=flat-square&logo=pcgamingwiki&logoColor=white)](https://ca.pcpartpicker.com/user/jackiema/saved/RqchmG)
 [![Laptop](https://img.shields.io/badge/MacBook_Air_M1-333333?style=flat-square&logo=apple&logoColor=white)](#)
 
 <!-- ![CPU](https://img.shields.io/badge/AMD-Ryzen_7_5700X3D-ED1C24?style=flat-square&logo=amd&logoColor=white) -->
